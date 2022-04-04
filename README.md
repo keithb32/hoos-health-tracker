@@ -8,4 +8,4 @@ HoosHealthTracker is a team project that is still being developed by Keith Butle
 
 
 ## License
-HoosHealthTracker is released under the [MIT License](https://.com/licenses/mit/).
+HoosHealthTracker is released under the [MIT License](https://choosealicense.com/licenses/mit/).
