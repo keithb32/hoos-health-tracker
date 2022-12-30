@@ -4,7 +4,7 @@ HoosHealthTracker is a web application that allows users to record information a
 
 ## Credits
 
-HoosHealthTracker is a team project that is still being developed by Keith Butler, Ayma Khwaja, Jade Heilemann, and Pragnya Pandrate.
+HoosHealthTracker is a team project that was developed by Keith Butler, Ayma Khwaja, Jade Heilemann, and Pragnya Pandrate in Spring 2022. It is no longer being maintained; therefore, certain features may be deprecated.
 
 
 ## License
